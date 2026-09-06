@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li:hover{
+    text-decoration: underline;
+}
+::-webkit-scrollbar{
+    display:none;
+}
+p{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.whatsapp{
+    position: fixed;
+    top: 450px;
+    right: 20px;
+    z-index: 1;
+}
